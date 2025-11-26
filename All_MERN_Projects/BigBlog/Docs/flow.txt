@@ -1,0 +1,1 @@
+setting up the react file by npm create vite@latest
