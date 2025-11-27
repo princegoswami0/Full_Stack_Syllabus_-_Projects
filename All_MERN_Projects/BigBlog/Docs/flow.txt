@@ -1,1 +1,6 @@
 setting up the react file by npm create vite@latest
+
+write basic css file and import fonts and define variables 
+
+folder structure : create required files and components
+
